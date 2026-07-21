@@ -1,12 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF9933,50:FFFFFF,100:138808&height=3&width=1108" width="100%"/>
 <!-- Banner image -->
 <p align="center">
-  <img src=".github/workflows/WhatsApp Image 2026-07-21 at 9.17.37 AM.jpeg" width="100%" alt="Banner"/>
-   <p>
-    <b>Aspiring Robotics & AI Engineer</b> | B.Tech CSE (AI/ML) Incoming |<br/>
-    Open Source Contributor — Scientific Python (<a href="https://github.com/Rekin226/aquascope">aquascope</a>, ArviZ) |<br/>
-    GSoC 2027 Aspirant
-  </p>
+  <img src=".github/workflows/f0083685-7495-4607-b8d3-b3ce9afbde91.jpg" width="100%" alt="Banner"/>
 </p>
 
 ---

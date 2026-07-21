@@ -1,6 +1,6 @@
 <!-- Banner image -->
 <p align="center">
-  <img src=".profile braground.png" width="100%" alt="Banner"/>
+  <img src=".github/workflows/profile braground.png" width="100%" alt="Banner"/>
 </p>
 
 <!-- Profile photo + name + tagline, LinkedIn-card style -->

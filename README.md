@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF9933,50:FFFFFF,100:138808&height=3&width=1108" width="100%"/>
 <!-- Banner image -->
 <p align="center">
-  <img src=".github/workflows/profile braground.png" width="100%" alt="Banner"/>
+  <img src=".github/workflows/WhatsApp Image 2026-07-21 at 9.17.37 AM.jpeg" width="100%" alt="Banner"/>
 </p>
 
 <!-- Profile photo + name + tagline, LinkedIn-card style -->

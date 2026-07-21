@@ -1,6 +1,5 @@
 <body style="background-color: white;">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF9933,50:FFFFFF,100:138808&height=3&width=1108" width="100%"/>
 <!-- Banner image -->
 <p align="center">
   <img src=".github/workflows/f0083685-7495-4607-b8d3-b3ce9afbde91.jpg" width="100%" alt="Banner"/>

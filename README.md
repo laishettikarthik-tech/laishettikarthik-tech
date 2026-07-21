@@ -9,23 +9,6 @@
   </p>
 </p>
 
-<!-- Profile photo + name + tagline, LinkedIn-card style -->
-<table>
-<tr>
-<td width="140">
-  <img src="https://github.com/laishettikarthik-tech.png" width="120" style="border-radius:50%;" alt="Karthik Laishetti"/>
-</td>
-<td>
-  <h1>Karthik Laishetti <sub><i>He/Him</i></sub></h1>
-  <p>
-    <b>Aspiring Robotics & AI Engineer</b> | B.Tech CSE (AI/ML) Incoming |<br/>
-    Open Source Contributor — Scientific Python (<a href="https://github.com/Rekin226/aquascope">aquascope</a>, ArviZ) |<br/>
-    GSoC 2027 Aspirant
-  </p>
-</td>
-</tr>
-</table>
-
 ---
 
 ### 🚀 About Me

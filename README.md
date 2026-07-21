@@ -1,3 +1,4 @@
+<body style="background-color: white ;">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF9933,50:FFFFFF,100:138808&height=3&width=1108" width="100%"/>
 <!-- Banner image -->
 <p align="center">
@@ -39,3 +40,4 @@
 <p>
 <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
+</body>

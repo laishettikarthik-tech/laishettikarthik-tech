@@ -16,12 +16,14 @@
 - 📌 Working on GSoC 2027 portfolio
 
 ### 🛠️ Tech & Tools
+<body style="background-color: white;">
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
+</body>
 
 ### 📊 GitHub Stats
 <p align="center">

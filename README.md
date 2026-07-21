@@ -2,6 +2,11 @@
 <!-- Banner image -->
 <p align="center">
   <img src=".github/workflows/WhatsApp Image 2026-07-21 at 9.17.37 AM.jpeg" width="100%" alt="Banner"/>
+   <p>
+    <b>Aspiring Robotics & AI Engineer</b> | B.Tech CSE (AI/ML) Incoming |<br/>
+    Open Source Contributor — Scientific Python (<a href="https://github.com/Rekin226/aquascope">aquascope</a>, ArviZ) |<br/>
+    GSoC 2027 Aspirant
+  </p>
 </p>
 
 <!-- Profile photo + name + tagline, LinkedIn-card style -->

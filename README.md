@@ -8,7 +8,7 @@
 ---
 
 ### 🚀 About Me
-- 🎓 Incoming B.Tech CSE (AI/ML) student, Gujarat, India
+- 🎓 Incoming B.Tech CSE student, Gujarat, India
 - 🤖 Building toward AI-powered robotics for hazardous industrial environments (chemical plants, refineries, mining)
 - 🌊 Hydrology area CODEOWNER on [aquascope](https://github.com/Rekin226/aquascope)
 - 🧪 Merged contributions: aquascope · arviz-stats · PyMC · ha-metar-weather

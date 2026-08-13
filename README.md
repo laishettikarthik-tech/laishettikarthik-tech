@@ -25,10 +25,24 @@
 </p>
 </body>
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
+
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=laishettikarthik-tech&show_icons=true&theme=default"/>
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=laishettikarthik-tech"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=laishettikarthik-tech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+    height="170"
+  />
+  <img
+    src="https://streak-stats.demolab.com?user=laishettikarthik-tech&theme=tokyonight&hide_border=true"
+    height="170"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=laishettikarthik-tech&layout=compact&theme=tokyonight&hide_border=true"
+    height="170"
+  />
 </p>
 
 ### 🐍 Contribution Snake

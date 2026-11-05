@@ -12,6 +12,7 @@
 - 🤖 Building toward AI-powered robotics for hazardous industrial environments (chemical plants, refineries, mining)
 - 🌊 Hydrology area CODEOWNER on [aquascope](https://github.com/Rekin226/aquascope)
 - 🧪 Merged contributions: aquascope · arviz-stats · PyMC · ha-metar-weather
+- 🚀Google Gemini Student Ambassador Programe – Semester 2, 2026!
 - 🌏 Interested in international study/work opportunities, including Japan
 - 📌 Working on GSoC 2027 portfolio
 
